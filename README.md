@@ -25,4 +25,4 @@ This project analyzes employee attrition using machine learning techniques to id
 - Scikit-learn
 
 ## Project File
-- HR_Attrition_Prediction.ipynb
+- IBM_HR_Analytics_Employee_Attrition_&_Performance.ipynb
